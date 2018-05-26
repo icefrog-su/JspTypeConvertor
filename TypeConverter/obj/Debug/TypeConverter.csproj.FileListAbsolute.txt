@@ -1,0 +1,17 @@
+C:\Developer\Developer files\Visual Studio\TypeConverter\TypeConverter\bin\Debug\TypeConverter.exe.config
+C:\Developer\Developer files\Visual Studio\TypeConverter\TypeConverter\bin\Debug\TypeConverter.exe
+C:\Developer\Developer files\Visual Studio\TypeConverter\TypeConverter\bin\Debug\TypeConverter.pdb
+C:\Developer\Developer files\Visual Studio\TypeConverter\TypeConverter\obj\Debug\TypeConverter.Properties.Resources.resources
+C:\Developer\Developer files\Visual Studio\TypeConverter\TypeConverter\obj\Debug\TypeConverter.csproj.GenerateResource.Cache
+C:\Developer\Developer files\Visual Studio\TypeConverter\TypeConverter\obj\Debug\TypeConverter.exe
+C:\Developer\Developer files\Visual Studio\TypeConverter\TypeConverter\obj\Debug\TypeConverter.pdb
+C:\Developer\Developer files\Visual Studio\TypeConverter\TypeConverter\obj\Debug\TypeConverter.WorkWinForm.resources
+C:\Icefrog\栈\C#\TypeConverter\TypeConverter\bin\Debug\TypeConverter.exe.config
+C:\Icefrog\栈\C#\TypeConverter\TypeConverter\bin\Debug\TypeConverter.exe
+C:\Icefrog\栈\C#\TypeConverter\TypeConverter\bin\Debug\TypeConverter.pdb
+C:\Icefrog\栈\C#\TypeConverter\TypeConverter\obj\Debug\TypeConverter.WorkWinForm.resources
+C:\Icefrog\栈\C#\TypeConverter\TypeConverter\obj\Debug\TypeConverter.Properties.Resources.resources
+C:\Icefrog\栈\C#\TypeConverter\TypeConverter\obj\Debug\TypeConverter.csproj.GenerateResource.cache
+C:\Icefrog\栈\C#\TypeConverter\TypeConverter\obj\Debug\TypeConverter.csproj.CoreCompileInputs.cache
+C:\Icefrog\栈\C#\TypeConverter\TypeConverter\obj\Debug\TypeConverter.exe
+C:\Icefrog\栈\C#\TypeConverter\TypeConverter\obj\Debug\TypeConverter.pdb
